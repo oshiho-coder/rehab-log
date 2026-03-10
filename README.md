@@ -173,14 +173,6 @@ Exercise削除時に、紐づくRecordを先に削除することで
 
 ---
 
-# セットアップ方法
-
-```bash
-git clone <repository-url>
-cd rehab-log
-npm install
-npm run dev
-
 # 画面イメージ
 
 ## トップ画面
